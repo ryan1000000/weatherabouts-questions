@@ -1,0 +1,603 @@
+{
+  "days": [
+    {
+      "date": "2026-10-31",
+      "locations": [
+        {
+          "answer": "Victoria",
+          "province": "BC",
+          "lat": 48.428,
+          "lon": -123.365,
+          "question": "For 1991–2020, the reported average annual snowfall here was 38.6 cm. Nearby mountains shelter this coastal city from much of the Pacific rain.",
+          "clues": [
+            "It is noticeably drier than its mainland neighbour, Vancouver.",
+            "A château-style hotel on the Inner Harbour is known for afternoon tea, and the nearby legislature is outlined in lights at night.",
+            "Find British Columbia’s capital, at the southern tip of Vancouver Island."
+          ],
+          "reveal": "Victoria is known as the City of Gardens. Hanging flower baskets brighten its streets in summer, and Butchart Gardens is nearby.",
+          "sources": [
+            "https://climate.weather.gc.ca/climate_normals/index_e.html"
+          ]
+        },
+        {
+          "answer": "Churchill",
+          "province": "MB",
+          "lat": 58.768,
+          "lon": -94.165,
+          "question": "Long, cold winters shape this subarctic community. In autumn, polar bears wait along the coast for sea ice to form so they can return to hunting on the ice.",
+          "clues": [
+            "Beluga whales gather in the nearby river estuary each summer, and a railway reaches the town’s seaport.",
+            "Visitors come in autumn to watch polar bears gather along the western coast of Hudson Bay.",
+            "Find the Manitoba town on Hudson Bay with a railway connection but no highway connecting it to the south."
+          ],
+          "reveal": "Churchill is known as the Polar Bear Capital of the World. Flooding washed out its rail connection in 2017; service returned in 2018. With no highway connection to the south, the disruption affected groceries and other supplies as well as travel.",
+          "sources": [
+            "https://tsb.gc.ca/eng/rapports-reports/rail/2018/r18w0237/r18w0237.html",
+            "https://www.canada.ca/en/prairies-economic-development/corporate/transparency/audit-evaluation/evaluation-restoring-rail-service-churchill-initiative.html",
+            "https://www.travelmanitoba.com/manitoba-north/places/churchill/"
+          ]
+        },
+        {
+          "answer": "Dawson City",
+          "province": "YT",
+          "lat": 64.06,
+          "lon": -139.433,
+          "question": "With short winter days and long summer evenings, this Yukon location reportedly averaged 13.5 days per year with a minimum temperature below −40°C during 1991–2020.",
+          "clues": [
+            "Wooden boardwalks and false-front buildings preserve its gold-rush appearance.",
+            "Its population surged in the late 1890s after gold was found in the surrounding creeks.",
+            "Find the town where the Klondike River meets the Yukon River."
+          ],
+          "reveal": "Dawson City was Yukon’s capital until 1953. A local bar is known for the Sourtoe Cocktail, served with a preserved human toe. Beneath the historic buildings is another story: Ruby’s Place was temporarily moved in 2018 while a new foundation was installed to reduce its vulnerability to thawing permafrost.",
+          "sources": [
+            "https://climate.weather.gc.ca/climate_normals/index_e.html",
+            "https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/recollections/episode-001.html",
+            "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=770"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "locations": [
+        {
+          "answer": "St. John’s",
+          "province": "NL",
+          "lat": 47.562,
+          "lon": -52.713,
+          "question": "Fog, cloud and strong winds are familiar features of this Atlantic coastal capital. Its sheltered harbour contrasts with the exposed headlands nearby.",
+          "clues": [
+            "Guglielmo Marconi reported receiving a transatlantic wireless signal on a hill above the harbour in 1901.",
+            "Signal Hill overlooks the harbour, while George Street is known for its concentration of pubs.",
+            "Find the capital of Newfoundland and Labrador, known for colourful row houses."
+          ],
+          "reveal": "Nearby Cape Spear is Canada’s easternmost point. The colourful downtown houses are often called Jellybean Row, although the nickname refers to more than a single street.",
+          "sources": []
+        },
+        {
+          "answer": "Medicine Hat",
+          "province": "AB",
+          "lat": 50.041,
+          "lon": -110.677,
+          "question": "Hot days do not always mean humid days. For 1991–2020, this dry Prairie city reportedly averaged about 26 days above 30°C each year, but only about four days with humidex above 35.",
+          "clues": [
+            "Look in the dry southeast of Alberta, close to the Saskatchewan border.",
+            "A landmark teepee, about twenty storeys tall, overlooks the city.",
+            "Find the city on the South Saskatchewan River, east of Lethbridge and southwest of Swift Current."
+          ],
+          "reveal": "Natural gas helped build Medicine Hat and gave it the nickname The Gas City. Its large Saamis Tepee provides a very different landmark from the gas fields and industrial sites associated with that history.",
+          "sources": [
+            "https://climate.weather.gc.ca/climate_normals/index_e.html"
+          ]
+        },
+        {
+          "answer": "Resolute",
+          "province": "NU",
+          "lat": 74.697,
+          "lon": -94.83,
+          "question": "A polar desert with little precipitation and a long winter night: this location reportedly averaged only 93 days per year with a daily maximum above 0°C during 1991–2020.",
+          "clues": [
+            "Its Inuktitut name, Qausuittuq, is often translated as “the place with no dawn.”",
+            "The community sits on a gravel-covered, treeless plain and is a staging point for High Arctic research.",
+            "Find the hamlet on Cornwallis Island in Nunavut, on the north side of Barrow Strait."
+          ],
+          "reveal": "Resolute’s airport makes the community an important stop for Arctic flights and research expeditions travelling farther north.",
+          "sources": [
+            "https://climate.weather.gc.ca/climate_normals/index_e.html"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "locations": [
+        {
+          "answer": "Thunder Bay",
+          "province": "ON",
+          "lat": 48.381,
+          "lon": -89.247,
+          "question": "Cold winters and large seasonal temperature swings meet the influence of an enormous lake here. In summer, the waterfront can stay cooler than areas farther inland.",
+          "clues": [
+            "Across the bay, a rock formation resembles a person lying on their back.",
+            "The city ships Prairie grain, and nearby Kakabeka Falls is sometimes called Niagara of the North.",
+            "Find the northwestern Ontario city on Lake Superior, beside the Sleeping Giant."
+          ],
+          "reveal": "Terry Fox ended his Marathon of Hope near Thunder Bay in 1980 after his cancer returned. A memorial overlooking the area honours his cross-country run.",
+          "sources": []
+        },
+        {
+          "answer": "Osoyoos",
+          "province": "BC",
+          "lat": 49.033,
+          "lon": -119.467,
+          "question": "Hot, dry summers support sagebrush and cacti around this town. During 1991–2020, it reportedly averaged about 15 days per year with a maximum above 35°C.",
+          "clues": [
+            "Orchards, vineyards and roadside fruit stands surround the town; Nk’Mip Desert Cultural Centre interprets the local landscape.",
+            "A lake crosses the nearby international border, and rattlesnakes live in the surrounding hills.",
+            "Find the town at the southern end of British Columbia’s Okanagan Valley, beside the U.S. border."
+          ],
+          "reveal": "Osoyoos is often described as Canada’s pocket desert. Its dry grasslands and shrublands are part of the South Okanagan landscape; they are not a northern extension of the Sonoran Desert.",
+          "sources": [
+            "https://climate.weather.gc.ca/climate_normals/index_e.html"
+          ]
+        },
+        {
+          "answer": "SGang Gwaay, Haida Gwaii",
+          "province": "BC",
+          "lat": 52.098,
+          "lon": -131.217,
+          "question": "Cool, wet marine weather shapes this island village site off British Columbia’s north coast, where carved cedar poles face the sea.",
+          "clues": [
+            "The site is in Gwaii Haanas, in the southern part of Haida Gwaii.",
+            "It is a UNESCO World Heritage Site known for standing cedar poles and the remains of longhouses.",
+            "Find SGang Gwaay on Anthony Island, off the southwestern side of Moresby Island."
+          ],
+          "reveal": "SGang Gwaay preserves evidence of Haida village life and remains culturally significant to the Haida Nation. The wider archipelago’s official name changed from the Queen Charlotte Islands to Haida Gwaii in 2010.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "locations": [
+        {
+          "answer": "Winnipeg",
+          "province": "MB",
+          "lat": 49.895,
+          "lon": -97.138,
+          "question": "Large seasonal temperature swings are familiar here: cold winters contrast with warm summers that can be humid. Mosquitoes are a familiar part of summer too.",
+          "clues": [
+            "The Canadian Museum for Human Rights stands near the meeting of two rivers.",
+            "A golden figure stands on top of the provincial legislative building.",
+            "Find Manitoba’s capital at the junction of the Red and Assiniboine rivers."
+          ],
+          "reveal": "The bear that inspired Winnie-the-Pooh was named Winnipeg, or Winnie. Harry Colebourn bought the cub in White River, Ontario, in 1914 and named her after his adopted home city, Winnipeg.",
+          "sources": []
+        },
+        {
+          "answer": "Yellowknife",
+          "province": "NT",
+          "lat": 62.454,
+          "lon": -114.377,
+          "question": "A relatively dry subarctic climate brings long, cold winters and summer nights with very little darkness. Clear winter skies can make this a good place to look for the northern lights.",
+          "clues": [
+            "Houseboats sit on the bay, and a local street is named Ragged Ass Road.",
+            "The city is on the north side of Great Slave Lake.",
+            "Find the capital of the Northwest Territories, beside Yellowknife Bay."
+          ],
+          "reveal": "Yellowknife combines an urban centre with lake-based travel. In winter, an ice road links the city with Dettah; its opening and operating conditions depend on the ice.",
+          "sources": []
+        },
+        {
+          "answer": "Alert",
+          "province": "NU",
+          "lat": 82.501,
+          "lon": -62.349,
+          "question": "Below-freezing conditions dominate most of the year here. For 1991–2020, the reported July daily mean temperature was just 3.9°C.",
+          "clues": [
+            "Military operations and atmospheric and weather observations take place on Ellesmere Island.",
+            "The remote station depends on air transport for regular resupply.",
+            "Find the permanently inhabited station at the northeastern end of Ellesmere Island, roughly 800 km from the North Pole."
+          ],
+          "reveal": "Alert was named after HMS Alert, a ship associated with the British Arctic expedition of the 1870s. The station’s location makes it valuable for observations of the High Arctic atmosphere.",
+          "sources": [
+            "https://climate.weather.gc.ca/climate_normals/index_e.html"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "locations": [
+        {
+          "answer": "Sudbury",
+          "province": "ON",
+          "lat": 46.491,
+          "lon": -80.993,
+          "question": "Cold, snowy winters and warm summers shape this northern Ontario city. Numerous lakes are scattered among rocky outcrops and former mining landscapes.",
+          "clues": [
+            "Its Science North centre has a distinctive snowflake-shaped design.",
+            "A giant replica of a Canadian coin stands at a local attraction.",
+            "Find the northern Ontario city known for nickel mining and the Big Nickel."
+          ],
+          "reveal": "The Sudbury Basin is associated with an ancient meteorite impact. Apollo astronauts trained in the region in the early 1970s, using its geology to prepare for work on the Moon.",
+          "sources": []
+        },
+        {
+          "answer": "Tofino",
+          "province": "BC",
+          "lat": 49.153,
+          "lon": -125.906,
+          "question": "A wet Pacific coast climate brings frequent rain and relatively mild winters to this small community. Ocean storms are part of its winter identity.",
+          "clues": [
+            "It is a centre for surfing, and gray whales migrate past the coast in spring.",
+            "Surfers wear wetsuits year-round, while winter visitors come to watch storms from shore.",
+            "Find the town at the end of Highway 4 on Vancouver Island’s west coast, northwest of Ucluelet."
+          ],
+          "reveal": "Tofino sits beside Clayoquot Sound and near Pacific Rim National Park Reserve. Despite its wet reputation, its water system can face low summer flows when visitor demand is high. Drinking water comes from four rain-fed creeks on Meares Island.",
+          "sources": [
+            "https://talktofino.ca/water",
+            "https://tofino.ca/our-community/"
+          ]
+        },
+        {
+          "answer": "Hopewell Rocks",
+          "province": "NB",
+          "lat": 45.823,
+          "lon": -64.576,
+          "question": "Cool marine air and fog can affect this Bay of Fundy shoreline. But the most noticeable change over a few hours is the position of the water, not the weather.",
+          "clues": [
+            "Tall rock pillars topped with trees stand exposed at low tide and are surrounded by water at high tide.",
+            "The formations are nicknamed flowerpots, and visitors can walk on the seabed when the tide is out.",
+            "Find the rock formations near Hopewell Cape, New Brunswick, south of Moncton on the western side of the upper Bay of Fundy."
+          ],
+          "reveal": "The Bay of Fundy is known for very large tides, with the range reaching about 16 metres in parts of the bay. There are typically two high tides and two low tides per lunar day. The tidal range at Hopewell Rocks varies with the date.",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "locations": [
+        {
+          "answer": "Goderich",
+          "province": "ON",
+          "lat": 43.742,
+          "lon": -81.71,
+          "question": "A summer tornado crossed a Great Lakes harbour and struck this town’s centre in August 2011. Its streets lead toward a courthouse inside a “square” that is not actually square. Where are you?",
+          "clues": [
+            "Look on the eastern shore of one of the Great Lakes, in southwestern Ontario.",
+            "The downtown street plan has an octagonal centre. Freighters visit the harbour beside a salt mine.",
+            "Find the town at the mouth of the Maitland River, on Lake Huron."
+          ],
+          "reveal": "Goderich’s central “Square” is an octagon. The August 21, 2011 tornado was rated F3 and damaged both the harbour area and the town centre. The lakefront and unusual street plan offer two different ways to work out the location.",
+          "sources": [
+            "https://cdd.publicsafety.gc.ca/dtpg-eng.aspx?cultureCode=en-Ca&eventId=1028&eventTypes=%27TO%27&normalizedCostYear=1",
+            "https://www.exploregoderich.ca/explore-play/the-square/",
+            "https://www.exploregoderich.ca/explore-play/beaches-and-waterfront/"
+          ]
+        },
+        {
+          "answer": "Pincher Creek",
+          "province": "AB",
+          "lat": 49.486,
+          "lon": -113.951,
+          "question": "Winter here does not always stay winter. Warm, dry winds descending from the Rockies can interrupt the cold, while wind turbines make use of the exposed foothills. Find this southern Prairie town.",
+          "clues": [
+            "You are east of the Continental Divide, where Chinook winds reach the plains.",
+            "This is southwestern Alberta, south of the Crowsnest Highway.",
+            "Look just south of Highway 3, between Crowsnest Pass and Fort Macleod; the town’s name begins with a tool for gripping."
+          ],
+          "reveal": "Pincher Creek sits where mountain weather meets the plains. Descending air warms and dries, helping explain its Chinooks. The town also highlights wind energy as part of its local identity: the same geography that changes a winter day can help generate electricity.",
+          "sources": [
+            "https://pinchercreek.ca/content.php?p=38"
+          ]
+        },
+        {
+          "answer": "Pangnirtung",
+          "province": "NU",
+          "lat": 66.145,
+          "lon": -65.712,
+          "question": "In June 2008, heavy rain and melting snow helped undermine a bridge in this Arctic community. Erosion reached into frozen ground beside a river, disrupting the route used for essential services. Find the community beside a Baffin Island fiord.",
+          "clues": [
+            "Look in the eastern Canadian Arctic, close to the Arctic Circle.",
+            "It is a gateway to Auyuittuq National Park, reached through Cumberland Sound.",
+            "Find the community on the south side of Pangnirtung Fiord, where the Duval River reaches the water."
+          ],
+          "reveal": "Pangnirtung’s bridge failure shows why Arctic infrastructure depends on both water and ground conditions. The 2008 event damaged the bridge approaches, not simply the bridge deck. The nearby landscape is also known for steep mountains and access to Auyuittuq National Park.",
+          "sources": [
+            "https://www.cambridge.org/core/journals/polar-record/article/abs/when-the-river-started-underneath-the-land-social-constructions-of-a-severe-weather-event-in-pangnirtung-nunavut-canada/D30E23FB626987DE3CF26EF206ABE1FF",
+            "https://www.parcs.canada.ca/pn-np/nu/auyuittuq/visit/directions"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "locations": [
+        {
+          "answer": "North Rustico",
+          "province": "PE",
+          "lat": 46.459,
+          "lon": -63.313,
+          "question": "Fiona damaged the fishing harbour of this small north-shore community in September 2022. Lobster boats, a sandy coast and nearby red cliffs place it in a very different setting from Newfoundland’s rocky southwest coast. Find the harbour.",
+          "clues": [
+            "Look on the Gulf of St. Lawrence side of Prince Edward Island.",
+            "It is east of Cavendish, beside a section of Prince Edward Island National Park.",
+            "Find the harbour community called “North” Rustico, roughly 25 km north of Charlottetown."
+          ],
+          "reveal": "North Rustico’s harbour is part of the working coast affected by Fiona. For longer-term planning, ClimateData.ca explains that relative sea-level change includes both ocean change and land movement. Coastal flood risk is not determined by wind alone.",
+          "sources": [
+            "https://www.dfo-mpo.gc.ca/dp-pm/2026-27/index-eng.html",
+            "https://www.tourismpei.com/trip-ideas/itineraries/small-towns/north-rustico-itinerary",
+            "https://climatedata.ca/resource/guidance-on-using-relative-sea-level-change-datasets/"
+          ]
+        },
+        {
+          "answer": "Midale",
+          "province": "SK",
+          "lat": 49.397,
+          "lon": -103.402,
+          "question": "On July 5, 1937, this small Prairie town and nearby Yellow Grass both reached 45°C. They shared Canada’s highest recorded temperature until 2021. Find the town that is not Yellow Grass.",
+          "clues": [
+            "Look in the southern part of Saskatchewan, in farming and oil country.",
+            "It lies on Highway 39 between Weyburn and Estevan.",
+            "Find the town near Mainprize Regional Park, roughly halfway between those two cities."
+          ],
+          "reveal": "Midale and Yellow Grass shared the national heat record for 84 years, before Lytton exceeded it in June 2021. Midale is also home to the Souris Valley Antique Association Museum and Heritage Village, where local agricultural history is preserved.",
+          "sources": [
+            "https://www.canada.ca/en/environment-climate-change/services/top-ten-weather-stories/2021.html",
+            "https://www.tourismsaskatchewan.com/community/308/midale"
+          ]
+        },
+        {
+          "answer": "Saint-Jean-sur-Richelieu",
+          "province": "QC",
+          "lat": 45.307,
+          "lon": -73.262,
+          "question": "In spring 2011, snowmelt and repeated rain helped flood the river through this southern Quebec city. The water came from a basin that extends into Vermont and New York. Which city lies downstream of Lake Champlain?",
+          "clues": [
+            "The river drains northward from Lake Champlain toward the St. Lawrence.",
+            "The city is southeast of Montréal, along the Richelieu River.",
+            "Find the city at the southern end of the Chambly Canal, north of the U.S. border."
+          ],
+          "reveal": "Saint-Jean-sur-Richelieu was among the communities affected by the 2011 Lake Champlain–Richelieu River flood. A long flood can reflect conditions across an entire watershed, including accumulated snow and repeated rainfall far from the neighbourhoods that end up underwater.",
+          "sources": [
+            "https://ijc.org/en/ijc-commissioners-visit-lake-champlain-learn-about-challenges-and-adaptation-following-2011-floods",
+            "https://www.tourisme-monteregie.qc.ca/blogue/agrement/articles/saint-jean-sur-richelieu-et-environ/"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "locations": [
+        {
+          "answer": "Wawa",
+          "province": "ON",
+          "lat": 47.993,
+          "lon": -84.774,
+          "question": "Heavy rain in October 2012 washed out roads around this northern Ontario town, disrupting a key route around Lake Superior. Its best-known roadside resident is a bird that never migrates. Where are you?",
+          "clues": [
+            "Look near Lake Superior’s northeastern shore.",
+            "The roadside resident is a giant goose statue.",
+            "Find the junction of Highway 17 and Highway 101, just north of Lake Superior Provincial Park."
+          ],
+          "reveal": "Wawa’s goose is a landmark for travellers on the Trans-Canada Highway. The 2012 washouts showed how a local rain event can disrupt a much larger transport corridor when few alternate roads exist. The town sits beside Wawa Lake, inland from Lake Superior.",
+          "sources": [
+            "https://glslcities.org/wp-content/uploads/2015/08/Fact-Sheet-Wawa-Final.pdf",
+            "https://www.destinationontario.com/en-ca/cities-towns/wawa"
+          ]
+        },
+        {
+          "answer": "Revelstoke",
+          "province": "BC",
+          "lat": 50.998,
+          "lon": -118.195,
+          "question": "July can bring summer weather in this town while snowfields remain on the nearby national park’s summit. Pacific air is forced upward over the Columbia Mountains, helping produce deep winter snow. Find the town below.",
+          "clues": [
+            "This is inland British Columbia, not the coastal mountains around Vancouver.",
+            "A nearby scenic road is called the Meadows-in-the-Sky Parkway.",
+            "Find the town on the Columbia River and Highway 1, west of Rogers Pass and east of Sicamous."
+          ],
+          "reveal": "Revelstoke illustrates how sharply climate can change with elevation. Parks Canada describes summit snow depths of five metres or more in March, while the valley loses its snow much earlier. The nearby mountain and the town share a name but not identical weather.",
+          "sources": [
+            "https://parks.canada.ca/pn-np/bc/revelstoke/visit/meteo-weather"
+          ]
+        },
+        {
+          "answer": "Sackville",
+          "province": "NB",
+          "lat": 45.897,
+          "lon": -64.368,
+          "question": "This university town added a naturalized stormwater pond after repeated flooding. The pond can hold about 40,000 cubic metres of water, and local rain gardens provide another way to slow runoff. Find the town beside the Tantramar marshes.",
+          "clues": [
+            "Look near the narrow land connection between New Brunswick and Nova Scotia.",
+            "Mount Allison University and a well-known waterfowl park are here.",
+            "Find the New Brunswick town northwest of Amherst, beside the Trans-Canada Highway."
+          ],
+          "reveal": "Sackville’s Lorne Street pond combines stormwater storage with green space. Rain gardens tackle runoff at a smaller scale by helping water soak into the ground. These are local examples of adaptation that residents can see and use, rather than infrastructure hidden below a street.",
+          "sources": [
+            "https://changingclimate.ca/map/lorne-street-naturalized-stormwater-management-pond/",
+            "https://changingclimate.ca/map/eos-eco-energy-rain-gardens-in-sackville-nb/",
+            "https://mta.ca/life-mta/athletics-fitness-and-recreation"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "locations": [
+        {
+          "answer": "Elie",
+          "province": "MB",
+          "lat": 49.902,
+          "lon": -97.759,
+          "question": "Video and damage evidence helped investigators classify a June 2007 tornado here as Canada’s first F5. The community is small; the rating was not. Find this town on the flat land west of Winnipeg.",
+          "clues": [
+            "Look along the Trans-Canada Highway in southern Manitoba.",
+            "The town lies between Winnipeg and Portage la Prairie.",
+            "Find the community about 40 km west of Winnipeg, at Highway 1 and Provincial Road 248."
+          ],
+          "reveal": "Elie’s June 22, 2007 tornado became Canada’s first documented F5. Tornado ratings describe assessed damage and associated estimated wind intensity; they are not simply readings from a nearby weather station. The event used the original Fujita scale, before Canada adopted the enhanced scale.",
+          "sources": [
+            "https://ams.confex.com/ams/24SLS/webprogram/Paper141718.html",
+            "https://cimss.ssec.wisc.edu/satellite-blog/archives/526"
+          ]
+        },
+        {
+          "answer": "Kentville",
+          "province": "NS",
+          "lat": 45.078,
+          "lon": -64.495,
+          "question": "On June 4, 2018, a local orchard report recorded a minimum near −1.9°C here. Young fruit was already developing, so a few cold hours mattered to growers. Find this town in an Atlantic Canadian apple-growing valley.",
+          "clues": [
+            "The valley lies on the Bay of Fundy side of Nova Scotia.",
+            "The town hosts Apple Blossom Festival events and a federal agricultural research centre.",
+            "Find the Annapolis Valley town just west of New Minas and Wolfville."
+          ],
+          "reveal": "Kentville’s 2018 frost shows why a growing season cannot be described by warmth alone. The stage of fruit development and the timing of a cold night both matter. The local research centre has operated since 1911, linking the town’s identity with agricultural science.",
+          "sources": [
+            "https://www.perennia.ca/wp-content/uploads/2018/03/Orchard-Outlook-June-6-2018.pdf",
+            "https://agriculture.canada.ca/en/science/agriculture-and-agri-food-research-centres/kentville-research-and-development-centre",
+            "https://kentville.ca/signature-events/apple-blossom-festival"
+          ]
+        },
+        {
+          "answer": "Fort Smith",
+          "province": "NT",
+          "lat": 60.005,
+          "lon": -111.887,
+          "question": "On June 30, 2021, the temperature reached 39.9°C here—north of 60° latitude. Boreal forest, river rapids and summer pelicans fit the location better than the treeless Arctic many people might picture. Which town?",
+          "clues": [
+            "Look close to the Alberta–Northwest Territories boundary.",
+            "The town lies beside the Slave River, near Wood Buffalo National Park.",
+            "Find the town immediately north of Fort Fitzgerald, Alberta, at the end of the road from Hay River."
+          ],
+          "reveal": "Fort Smith’s 39.9°C reading featured in ECCC’s 2021 weather review. Latitude alone does not tell you how hot a summer day can become. Nearby Slave River rapids also support nesting American white pelicans—a reminder of how varied northern landscapes are.",
+          "sources": [
+            "https://www.canada.ca/en/environment-climate-change/services/top-ten-weather-stories/2021.html",
+            "https://www.fortsmith.ca/visitors/explore/wildlife"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "locations": [
+        {
+          "answer": "Firvale",
+          "province": "BC",
+          "lat": 52.439,
+          "lon": -126.225,
+          "question": "A ClimateData.ca case study uses this small valley community to examine days with at least 20 mm of precipitation. The practical question is whether a mountain highway’s drainage can handle future wet weather. Find the community on the road to Bella Coola.",
+          "clues": [
+            "Look on Highway 20 in British Columbia’s Coast Mountains.",
+            "It is inland from Bella Coola, in the same river valley, east of Hagensborg.",
+            "Find Firvale, roughly 40 km east of Bella Coola by road, between Hagensborg and Stuie."
+          ],
+          "reveal": "Firvale appears in ClimateData.ca’s highway vulnerability case study. Counting heavy-precipitation days helps connect climate information to drainage and erosion concerns. Engineers need to consider future conditions as well as past weather when planning infrastructure that will remain in use for decades.",
+          "sources": [
+            "https://climatedata.ca/assessing-highway-vulnerabilities-with-the-pievc-protocol/",
+            "https://themilepost.com/routes/chilcotin-highway-bc-highway-20/",
+            "https://mapcarta.com/24252276"
+          ]
+        },
+        {
+          "answer": "Baie-Saint-Paul",
+          "province": "QC",
+          "lat": 47.441,
+          "lon": -70.499,
+          "question": "Heavy rain on May 1, 2023, sent the Rivière du Gouffre out of its banks in this Charlevoix town. The river descends through a valley before meeting the St. Lawrence. Find the town known for its artists and galleries.",
+          "clues": [
+            "Look on the north shore of the St. Lawrence, downstream from Québec City.",
+            "It is in the western part of Charlevoix, near Route 138.",
+            "Find the town at the mouth of the Rivière du Gouffre, southwest of La Malbaie."
+          ],
+          "reveal": "Baie-Saint-Paul sits at a meeting of river, mountains and estuary. Its 2023 flood affected a community better known to many visitors for art. The event offers a local example of why a river’s upstream watershed matters to a town at its mouth.",
+          "sources": [
+            "https://www.environnement.gouv.qc.ca/climat/Faits-saillants/2023/mai.htm",
+            "https://www.baiesaintpaul.com/securite/actualites/inondations-et-retablissement",
+            "https://www.tourisme-charlevoix.com/en/charlevoix/baie-saint-paul"
+          ]
+        },
+        {
+          "answer": "Channel-Port aux Basques",
+          "province": "NL",
+          "lat": 47.57,
+          "lon": -59.137,
+          "question": "In September 2022, Fiona’s waves and storm surge destroyed homes in this coastal community. It is also a major arrival point for people travelling to Newfoundland by ferry. Find the port.",
+          "clues": [
+            "Look at Newfoundland’s southwestern tip, facing the Cabot Strait.",
+            "Its ferry connection runs to North Sydney in Nova Scotia.",
+            "Find Port aux Basques, at the western end of Newfoundland’s Trans-Canada Highway."
+          ],
+          "reveal": "Channel-Port aux Basques was among the communities most affected by Fiona’s coastal flooding. Storm surge raises water levels, while waves add further hazards at the shore. The ferry terminal also makes the town an important connection between Newfoundland and the mainland.",
+          "sources": [
+            "https://www.canada.ca/en/environment-climate-change/services/top-ten-weather-stories/2022.html",
+            "https://www.gov.nl.ca/ecc/files/1-Fiona-Presentation-Brian-Button.pdf",
+            "https://www.marineatlantic.ca/sailing-information/terminals/port-aux-basques-nl"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "locations": [
+        {
+          "answer": "Snag",
+          "province": "YT",
+          "lat": 62.354,
+          "lon": -140.404,
+          "question": "On February 3, 1947, observers at an airfield here recorded −63°C. You are looking for a former settlement and weather station near Alaska, not a present-day city. Where was this Canadian cold record measured?",
+          "clues": [
+            "Look in southwestern Yukon, close to the Alaska border.",
+            "The former airfield is north of the Alaska Highway, northwest of Burwash Landing.",
+            "Find the abandoned Snag airfield, about 25 km north of the Alaska Highway and east of the international border."
+          ],
+          "reveal": "Snag’s record came from a remote airfield weather station. The instruments and observation were checked before the value was confirmed. The target is the former airfield: locating the record precisely is more useful here than searching for a modern town centre.",
+          "sources": [
+            "https://www.gi.alaska.edu/alaska-science-forum/coldest-place-north-america",
+            "https://ourairports.com/airports/CA-0348/",
+            "https://www.cahs.com/yukon-the-coldest-place.html"
+          ]
+        },
+        {
+          "answer": "High River",
+          "province": "AB",
+          "lat": 50.583,
+          "lon": -113.869,
+          "question": "After a major June 2013 flood, this foothills town built an extensive system of dikes and other flood protection. Television viewers may know its streets as the fictional town of Hudson. Where are you?",
+          "clues": [
+            "Look south of Calgary, beside a river fed by the eastern slopes of the Rockies.",
+            "Maggie’s Diner from Heartland is a local filming landmark.",
+            "Find the town on the Highwood River, south of Okotoks and just west of Highway 2."
+          ],
+          "reveal": "High River’s post-2013 work includes about seven kilometres of dikes. Its real flood history sits alongside a fictional identity: the town appears as Hudson in Heartland. It is a useful example of how a familiar filming location can also tell a local adaptation story.",
+          "sources": [
+            "https://highriver.ca/services/fire-protective-services/emergency-management/flood-preparedness-protection",
+            "https://www.museumofthehighwood.com/exhibits/heartland"
+          ]
+        },
+        {
+          "answer": "Cap-des-Rosiers",
+          "province": "QC",
+          "lat": 48.856,
+          "lon": -64.202,
+          "question": "Near this coastal village, fog and wind can arrive quickly, and the sea moderates temperatures compared with inland places. A tall lighthouse marks the approach from the Gulf of St. Lawrence. Find the village beside Forillon.",
+          "clues": [
+            "Look near the eastern tip of Quebec’s Gaspé Peninsula.",
+            "Its lighthouse, built in 1858, is the tallest in Canada.",
+            "Find the village immediately north of Forillon National Park’s main peninsula, northeast of the city centre of Gaspé."
+          ],
+          "reveal": "Cap-des-Rosiers’ lighthouse stands about 34 metres tall. The surrounding Forillon coast is shaped by marine conditions: ocean influence can delay spring warming and soften temperature extremes. Fog is not just scenery here; it is part of the practical challenge of coastal navigation.",
+          "sources": [
+            "https://www.parcs.canada.ca/pn-np/qc/forillon/securite-safety/marine",
+            "https://parkscanadahistory.com/publications/forillon/guide-e.pdf",
+            "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=596"
+          ]
+        }
+      ]
+    }
+  ]
+}
