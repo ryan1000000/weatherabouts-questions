@@ -598,6 +598,62 @@
           ]
         }
       ]
+    },
+    {
+      "date": "2026-11-11",
+      "locations": [
+        {
+          "answer": "Banff",
+          "province": "AB",
+          "lat": 51.178,
+          "lon": -115.571,
+          "question": "At roughly 1,400 m, winters here are long and snowy, summers are short and cool, with even a couple of days of snow per summer.",
+          "clues": [
+            "Mount Rundle rises over the townsite, and a grand château-style hotel sits above the Bow River.",
+            "Hot springs near the town led to the creation of Canada's first national park in 1885.",
+            "Find the Alberta mountain town in the Bow Valley, about 130 km west of Calgary."
+          ],
+          "reveal": "Banff National Park is Canada's oldest national park. The Cave and Basin National Historic Site, where the hot springs were first developed, is often called the birthplace of Canada's national park system.",
+          "sources": [
+            "https://climate.weather.gc.ca/climate_normals/index_e.html",
+            "https://parks.canada.ca/pn-np/ab/banff"
+          ]
+        },
+        {
+          "answer": "Quebec City",
+          "province": "QC",
+          "lat": 46.813,
+          "lon": -71.208,
+          "question": "Cold, snowy winters and warm, humid summers make this one of the snowiest major cities in Canada.",
+          "clues": [
+            "Its old town is the only one in North America north of Mexico with surviving fortification walls.",
+            "Its Winter Carnival is hosted by a snowman mascot named Bonhomme.",
+            "Find the capital of Quebec, on the St. Lawrence River."
+          ],
+          "reveal": "Samuel de Champlain founded the city in 1608. The Historic District of Old Québec was named a UNESCO World Heritage Site in 1985, and the Château Frontenac dominates the skyline above the river.",
+          "sources": [
+            "https://climate.weather.gc.ca/climate_normals/index_e.html",
+            "https://whc.unesco.org/en/list/300"
+          ]
+        },
+        {
+          "answer": "Iqaluit",
+          "province": "NU",
+          "lat": 63.747,
+          "lon": -68.517,
+          "question": "Long, cold winters and a treeless tundra landscape define this Arctic community, where snow can fall in any month of the year.",
+          "clues": [
+            "Its current name, adopted in 1987, means \"place of many fish\" in Inuktitut.",
+            "Nearby Frobisher Bay has some of the largest tides in Canada, and the community was once known by that bay's name.",
+            "Find the capital of Nunavut, on southern Baffin Island."
+          ],
+          "reveal": "Iqaluit became a territorial capital when Nunavut was created in 1999. No road connects it to the rest of Canada, so people and supplies arrive by air, or by sea in the short shipping season.",
+          "sources": [
+            "https://climate.weather.gc.ca/climate_normals/index_e.html",
+            "https://www.iqaluit.ca/"
+          ]
+        }
+      ]
     }
   ]
 }
